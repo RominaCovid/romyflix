@@ -1,0 +1,36 @@
+.contenedor_form_cat{
+    display: flex;
+    justify-content: right;
+    margin-left: 300px;
+    margin-bottom: 23rem;
+    margin-top: -52.2rem;  
+    width: 70%;
+    height: 200%;
+}
+.formulario{    
+    display: flex;
+    flex-direction: column;
+    background-color: pink;
+    box-shadow: -4px -1px 17px 0px rgba(0,0,0,0.68);
+    border-radius: 20px;
+    padding: 8px 30px;
+}
+
+.contenedor_form h2{
+    font-family: var(--font_titulo);
+    text-align: center;
+    
+}
+.contenedor_form label{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+
+.contenedor_botones{
+    display: flex;
+    align-items:flex-start;
+    justify-content: space-around;
+    width: 50%;
+    padding: 0 2rem;
+    margin: 2rem 5rem;    
+}

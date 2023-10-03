@@ -1,0 +1,13 @@
+.card{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+}
+.card:hover{
+    transform:skew(-5deg,-10deg);
+}
+.img_video{
+    width: 200px;
+    height: 200px;
+}
+
